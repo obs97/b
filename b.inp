@@ -1,4 +1,4 @@
-! PBE0 def2-TZVP(-f) def2/J RIJCOSX tightSCF noautostart miniprint nopop
+! cam-b3lyp def2-TZVP(-f) def2/J RIJCOSX tightSCF noautostart miniprint nopop
 %maxcore  1800
 %pal nprocs   8 end
 ! CPCM(DMF)
